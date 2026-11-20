@@ -1,0 +1,31 @@
+# Vivado generated files & build outputs
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/utils_1/
+.Xil/
+*.bit
+*.bin
+*.dcp
+*.jou
+*.log
+*.str
+*.rpt
+*.pb
+*.vds
+*.xci
+webtalk*
+
+# Simulation outputs
+*.vcd
+*.vvp
+xsim.dir/
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+*.bkp
+*.tmp
